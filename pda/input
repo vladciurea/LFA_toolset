@@ -1,0 +1,13 @@
+q0 q1 q2
+a b
+5
+q0 a Z q0 AZ
+q0 a A q0 AA
+q0 b A q1 lambda
+q1 b A q1 lambda
+q1 lambda Z q2 Z
+q0
+Z
+q2
+stare_finala
+aaabbb
